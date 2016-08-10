@@ -270,7 +270,7 @@ input[type="submit"]:hover {
     position: relative;
     height: 100%;
     padding-top: 10px;
-    padding-bottom: 220px;
+    padding-bottom: 150px;
   }
   .sign-up-wrap {
     display: table-cell;
@@ -309,7 +309,7 @@ input[type="submit"]:hover {
 }
 @media (min-width: 1200px) {
   #sign-up {
-    padding-bottom: 190px;
+    padding-bottom: 150px;
   }
 }
 
